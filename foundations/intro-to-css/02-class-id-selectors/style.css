@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.default-para-text{
+    background-color:#f790a1;
+    color:black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.cool-para{
+    font-size: 24px;
+}
+#No2{
+    color: #0000ff;
+    font-size: 36px;
+    
+}
+#No4{
+    font-size: 24px;
+    background-color:hsl(134, 100%, 59%);
+    color:#000000;
+    font-weight: bold;
+}
